@@ -47,6 +47,6 @@ Let's connect! Here are some ways to reach me:
 
 - 📞 Call me: [437-967-5315](tel:437-967-5315)
 - 📧 Email me: [tirth.patel1721@gmail.com](mailto:tirth.patel1721@gmail.com)
-- </> GitHub: [Profile](https://github.com/freecodecamp)
+- </> GitHub: [Profile](https://github.com/tirthp14)
 
 Looking forward to collaborating with you! 🚀
