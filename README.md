@@ -40,7 +40,7 @@ Explore some of my featured projects:
 6. [JavaScript Calculator](https://github.com/tirthp14/javascript-calculator)
    - Description: A simple JavaScript calculator.
 
-Explore more [projects](#projects).
+Explore more [projects](https://github.com/tirthp14?tab=repositories).
 
 ## Contact
 Let's connect! Here are some ways to reach me:
