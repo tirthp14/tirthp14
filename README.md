@@ -1,6 +1,6 @@
 # Tirth Patel - Web Developer
 
-Welcome to my GitHub page! 👋 I'm Tirth Patel, a passionate and detail-oriented web developer. Below, you'll find information about me, my skills, projects, and ways to get in touch.
+Welcome to my GitHub page! 👋 I'm Tirth Patel 👨🏽‍💻, a passionate and detail-oriented web developer. Below, you'll find information about me, my skills, projects, and ways to get in touch.
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -46,7 +46,7 @@ Explore some of my featured projects:
    - Description: A simple JavaScript calculator.
    - [Preview](/img/Project Images/JavaScript Calculator Image.png)
 
-Explore more projects on my [GitHub page](#projects).
+Explore more [projects](#projects).
 
 ## Contact
 Let's connect! Here are some ways to reach me:
