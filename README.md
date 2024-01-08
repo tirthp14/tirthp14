@@ -1,4 +1,4 @@
-# Tirth Patel - Web Developer
+# Tirth Patel
 
 Welcome to my GitHub page! 👋 I'm Tirth Patel 👨🏽‍💻, a passionate and detail-oriented web developer. Below, you'll find information about me, my skills, projects, and ways to get in touch.
 
